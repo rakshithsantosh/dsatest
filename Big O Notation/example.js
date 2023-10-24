@@ -18,3 +18,6 @@ function addition(num){
 //in this case there are only three operations irrespective of the num value so its O(1)
 
 //if we have a nested loop Big O will be O(n*n) as we have n computations for n computations
+
+//arithmetic operations variable assignments and accessing elements in an array or object are constant
+
